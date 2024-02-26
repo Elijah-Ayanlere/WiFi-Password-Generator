@@ -4,7 +4,7 @@ This Python script generates a random and secure WiFi password. You can customiz
 
 ## Prerequisites
 
-- Python 3.x installed on your machine
+- Python 3.x installed on the device you are using.
 
 ## Usage
 
