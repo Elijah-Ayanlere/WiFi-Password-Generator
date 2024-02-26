@@ -25,10 +25,9 @@ You can customize the password length by modifying the `length` variable in the 
 
 ```python
 wifi_password = generate_password(length=12)
+```
 
 Change the `12` to your desired password length.
-
-```
 
 ## Contributing
 Feel free to contribute by forking the repository and making improvements.
